@@ -1,18 +1,17 @@
-## Hi there 👋
+<h1 align="center"> Welcome To My GitHub!</h1>
+<h2><i>⭐ Spotlight Projects </i></h2>
+<p align="center">
+	
 
-<!--
-**Evan-Liberto11/Evan-Liberto11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<br>
 
-Here are some ideas to get you started:
+## About Me
+I am a Senior Computer Science student at Miami University and a part-time Technical Solutions Architect Intern at World Wide Technology on the Infrastructure Automation team. I enjoy learning and working with new technologies, and I recently earned my Red Hat Certified System Administrator (RHCSA) certification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My GitHub Statistics
 
-Testing
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Evan-Liberto11&hide=contribs&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&line_height=24&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-Liberto11&hide=scheme,prolog&title_color=FFFFFF&icon_color=FFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=10&layout=compact" />
+</p>
