@@ -27,7 +27,7 @@ Outside of work and school, I’m passionate about fitness, continuous learning,
 ## 🔗 Contact Me
 - **🟦 LinkedIn** – [linkedin.com/in/evan-liberto](https://www.linkedin.com/in/evan-liberto/)  
 - **📧 Email** – [evanliberto117@gmail.com](mailto:evanliberto117@gmail.com)  
-- **📄 Resume** – [View My Resume (PDF)](your-resume-link-here)  
+- **📄 Resume** – [View My Resume (PDF)](/Evan%20L%20Resume%20October%202024.pdf)  
 
 ---
 
