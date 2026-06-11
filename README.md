@@ -39,26 +39,6 @@ Full-stack multi-cloud infrastructure hosting a weather-aware trip planning REST
 
 ---
 
-### AI Tutor
-Full-stack web application providing an AI-powered tutoring platform for computer science students.
-- Built a responsive frontend with Bootstrap and dynamic content powered by jQuery and Ajax
-- Implemented a PHP backend with SQLite for user data and session management
-- Designed for real-time interactions without page reloads
-
-**Stack:** HTML, CSS, JavaScript, jQuery, Ajax, PHP, SQLite | [View Repo](https://github.com/Evan-Liberto11/AITutor)
-
----
-
-### Cobalt Project App
-Java desktop application for querying and visualizing USGS cobalt mineral resource data.
-- Designed and normalized a relational database schema from raw USGS CSV data with full ERD documentation
-- Built a Java Swing UI connected to a MySQL backend supporting both original and normalized table views
-- Implemented stored SQL procedures for data exploration and reporting
-
-**Stack:** Java, Java Swing, MySQL, SQL | [View Repo](https://github.com/Evan-Liberto11/CobaltProjectApp)
-
----
-
 ## Contact
 
 - **LinkedIn** – [linkedin.com/in/evan-liberto](https://www.linkedin.com/in/evan-liberto/)
