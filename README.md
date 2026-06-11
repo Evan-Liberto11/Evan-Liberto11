@@ -16,22 +16,46 @@ Outside of work and school, I'm passionate about fitness, continuous learning, a
 
 ---
 
-## Spotlight Projects
+## Projects
 
-<p align="center">
-  <a href="https://github.com/Evan-Liberto11/sensor-based-activity-recognition-ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evan-Liberto11&repo=sensor-based-activity-recognition-ml&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=12&border_color=000000&show_owner=false&bg_color=30,DA70D6,8B008B&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/Evan-Liberto11/weathertrip-infrastructure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evan-Liberto11&repo=weathertrip-infrastructure&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=12&border_color=000000&show_owner=false&bg_color=30,00CED1,005F73&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/Evan-Liberto11/AITutor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evan-Liberto11&repo=AITutor&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=12&border_color=000000&show_owner=false&bg_color=30,90EE90,3CB371&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/Evan-Liberto11/CobaltProjectApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evan-Liberto11&repo=CobaltProjectApp&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=12&border_color=000000&show_owner=false&bg_color=30,FFD700,FFA500&cache_seconds=1800" />
-  </a>
-</p>
+### Sensor-Based Human Activity Recognition
+Machine learning model comparison for classifying 11 human activities from raw accelerometer and gyroscope sensor data across 12 users and ~3 million readings.
+- Trained and evaluated 10 models (XGBoost, Random Forest, KNN, ANN, SVM, and more) across 10 sliding window configurations
+- Best accuracy of **86.24%** achieved with XGBoost using a 500-sample window with 50% overlap
+- Validated top model with K-Fold and Stratified K-Fold cross-validation (mean accuracy: 86.54%)
+
+**Stack:** Python, scikit-learn, XGBoost, Pandas, Jupyter | [View Repo](https://github.com/Evan-Liberto11/sensor-based-activity-recognition-ml)
+
+---
+
+### WeatherTrip Infrastructure
+Full-stack multi-cloud infrastructure hosting a weather-aware trip planning REST API across OpenStack and AWS.
+- Deployed 4 OpenStack VMs and 1 AWS EC2 instance on a custom /29 subnet with static routing
+- Configured NGINX load balancer with SSL (Let's Encrypt), bind9 DNS, iptables firewall, and NAT
+- Secured all OpenStack–AWS communication through a WireGuard VPN tunnel
+- API supports location and trip management with live 7-day weather forecasts and a trip comparison scoring system
+
+**Stack:** Python, Flask, Docker, MariaDB, NGINX, WireGuard, bind9, AWS EC2, OpenStack | [View Repo](https://github.com/Evan-Liberto11/weathertrip-infrastructure)
+
+---
+
+### AI Tutor
+Full-stack web application providing an AI-powered tutoring platform for computer science students.
+- Built a responsive frontend with Bootstrap and dynamic content powered by jQuery and Ajax
+- Implemented a PHP backend with SQLite for user data and session management
+- Designed for real-time interactions without page reloads
+
+**Stack:** HTML, CSS, JavaScript, jQuery, Ajax, PHP, SQLite | [View Repo](https://github.com/Evan-Liberto11/AITutor)
+
+---
+
+### Cobalt Project App
+Java desktop application for querying and visualizing USGS cobalt mineral resource data.
+- Designed and normalized a relational database schema from raw USGS CSV data with full ERD documentation
+- Built a Java Swing UI connected to a MySQL backend supporting both original and normalized table views
+- Implemented stored SQL procedures for data exploration and reporting
+
+**Stack:** Java, Java Swing, MySQL, SQL | [View Repo](https://github.com/Evan-Liberto11/CobaltProjectApp)
 
 ---
 
