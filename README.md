@@ -22,6 +22,9 @@ Outside of work and school, I'm passionate about fitness, continuous learning, a
   <a href="https://github.com/Evan-Liberto11/sensor-based-activity-recognition-ml">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evan-Liberto11&repo=sensor-based-activity-recognition-ml&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=12&border_color=000000&show_owner=false&bg_color=30,DA70D6,8B008B&cache_seconds=1800" />
   </a>
+  <a href="https://github.com/Evan-Liberto11/weathertrip-infrastructure">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evan-Liberto11&repo=weathertrip-infrastructure&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=12&border_color=000000&show_owner=false&bg_color=30,00CED1,005F73&cache_seconds=1800" />
+  </a>
   <a href="https://github.com/Evan-Liberto11/AITutor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evan-Liberto11&repo=AITutor&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=12&border_color=000000&show_owner=false&bg_color=30,90EE90,3CB371&cache_seconds=1800" />
   </a>
